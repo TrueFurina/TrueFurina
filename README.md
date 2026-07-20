@@ -217,20 +217,19 @@ A comprehensive governance framework for enterprise AI deployment, covering secu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrueFurina&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats-jade.vercel.app/?user=TrueFurina&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TrueFurina&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueFurina&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueFurina&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-## 📈 Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrueFurina&theme=react-dark&hide_border=true&area=true" width="95%" />
+  <img src="https://ghchart.rshah.org/TrueFurina" alt="TrueFurina's GitHub Contribution Chart" width="90%" />
 </p>
 
 ---
