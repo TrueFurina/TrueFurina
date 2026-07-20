@@ -51,7 +51,42 @@ motto: "Security is not a feature — it's a foundation."
 
 ---
 
+
+
+---
+
+## 🔥 Featured Open Source
+
+### 🕵️ Passive Recon
+
+<a href="https://github.com/TrueFurina/passive-recon">
+  <img src="https://img.shields.io/github/stars/TrueFurina/passive-recon?style=for-the-badge&logo=github&color=58a6ff" />
+  <img src="https://img.shields.io/github/forks/TrueFurina/passive-recon?style=for-the-badge&logo=github&color=58a6ff" />
+  <img src="https://img.shields.io/github/license/TrueFurina/passive-recon?style=for-the-badge&color=58a6ff" />
+</a>
+
+> **Zero-touch, purely passive OSINT/EASM/CTEM platform** — 15+ data sources, one command, no probes sent.
+
+| Feature | Description |
+|---------|-------------|
+| 🔍 15 Passive Data Sources | crt.sh, HackerTarget, OTX, URLScan, Wayback, DNSDumpster, CommonCrawl, GitHub, Hunter, FOFA, SecurityTrails, Shodan, VirusTotal, ZoomEye, Qichacha |
+| 🚀 One Command |  |
+| 🛡️ Compliance Guardrail | Fail-closed R1 compliance on every outbound call |
+| 🌐 Web Dashboard |  — one-click panel |
+| ⏰ Auto Scheduler | Daily collection with change tracking |
+
+**Goal: 1000 Stars ⭐**
+
+<a href="https://github.com/TrueFurina/passive-recon/stargazers">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Stars&query=stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FTrueFurina%2Fpassive-recon&style=for-the-badge&color=3fb950&logo=github" />
+</a>
+
+[⭐ Star on GitHub](https://github.com/TrueFurina/passive-recon) · [📖 README](https://github.com/TrueFurina/passive-recon/blob/master/README.md) · [🌐 Website](https://truefurina.github.io/passive-recon)
+
+---
+
 ## 💼 Work Experience
+
 
 ### AI Agent Security Product Manager
 **DBAPP Security** | 2023 - Present
