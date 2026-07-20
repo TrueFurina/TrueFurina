@@ -216,14 +216,65 @@ A comprehensive governance framework for enterprise AI deployment, covering secu
 
 ## 📊 GitHub Stats
 
+<!-- Dynamic GitHub stats cards — updated daily -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrueFurina&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrueFurina&theme=radical&hide_border=true" width="48%" />
+  <a href="https://github.com/TrueFurina">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TrueFurina&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&cache_seconds=1800">
+      <img src="https://github-readme-stats.vercel.app/api?username=TrueFurina&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" height="180" alt="GitHub Stats" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueFurina&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueFurina&layout=compact&theme=default&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+    </picture>
+  </a>
 </p>
 
+<!-- Repo cards — show off best projects -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueFurina&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <a href="https://github.com/TrueFurina/passive-recon">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TrueFurina&repo=passive-recon&theme=github_dark&hide_border=true&show_owner=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrueFurina&repo=passive-recon&theme=default&hide_border=true&show_owner=true" width="45%" alt="passive-recon" />
+    </picture>
+  </a>
+  <a href="https://github.com/TrueFurina/TrueFurina">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TrueFurina&repo=TrueFurina&theme=github_dark&hide_border=true&show_owner=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrueFurina&repo=TrueFurina&theme=default&hide_border=true&show_owner=true" width="45%" alt="profile" />
+    </picture>
+  </a>
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TrueFurina&theme=github-dark&hide_border=true&hide_title=true&area=true&radius=8&custom_title=Contributions%20in%20the%20last%2031%20days&days=31">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrueFurina&theme=github-light&hide_border=true&hide_title=true&area=true&radius=8&custom_title=Contributions%20in%20the%20last%2031%20days&days=31" width="95%" alt="Activity Graph" />
+  </picture>
+</p>
+
+<!-- Contribution Snake — animated, works in China -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrueFurina/TrueFurina/output/dist/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/TrueFurina/TrueFurina/output/dist/github-contribution-grid-snake.gif" width="80%" alt="Snake Contribution Grid" />
+  </picture>
+</p>
+
+<!-- Star counter with goal -->
+<p align="center">
+  <a href="https://github.com/TrueFurina/passive-recon/stargazers">
+    <img src="https://img.shields.io/github/stars/TrueFurina/passive-recon?style=for-the-badge&logo=github&color=3fb950&label=Stars" />
+  </a>
+  <a href="https://github.com/TrueFurina/passive-recon/network">
+    <img src="https://img.shields.io/github/forks/TrueFurina/passive-recon?style=for-the-badge&logo=github&color=3fb950&label=Forks" />
+  </a>
+</p>
+
 
 ---
 
