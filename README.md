@@ -245,7 +245,7 @@ A comprehensive governance framework for enterprise AI deployment, covering secu
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TrueFurina/TrueFurina/output/github-contribution-grid-snake-dark.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/TrueFurina/TrueFurina/output/dist/github-contribution-grid-snake-dark.svg" width="80%" />
 </p>
 
 ---
