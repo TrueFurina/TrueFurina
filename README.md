@@ -227,9 +227,9 @@ A comprehensive governance framework for enterprise AI deployment, covering secu
   <img src="https://img.shields.io/github/contributors/TrueFurina/passive-recon?label=Contributors&style=for-the-badge&color=3fb950&logo=github" />
 </p>
 
-<!-- Contribution Snake — served via jsDelivr CDN (accessible in China) -->
+<!-- Contribution Snake — served via jsDelivr CDN from the `output` branch (accessible in China) -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/TrueFurina/TrueFurina/output/dist/github-contribution-grid-snake-dark.svg" width="80%" alt="Snake Contribution Grid" onerror="this.style.display='none'" />
+  <img src="https://cdn.jsdelivr.net/gh/TrueFurina/TrueFurina@output/dist/github-contribution-grid-snake-dark.svg" width="80%" alt="Snake Contribution Grid" onerror="this.style.display='none'" />
 </p>
 
 <!-- Star counter with goal -->
