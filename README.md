@@ -51,10 +51,6 @@ motto: "Security is not a feature — it's a foundation."
 
 ---
 
-
-
----
-
 ## 🔥 Featured Open Source
 
 ### 🕵️ Passive Recon
@@ -70,9 +66,8 @@ motto: "Security is not a feature — it's a foundation."
 | Feature | Description |
 |---------|-------------|
 | 🔍 15 Passive Data Sources | crt.sh, HackerTarget, OTX, URLScan, Wayback, DNSDumpster, CommonCrawl, GitHub, Hunter, FOFA, SecurityTrails, Shodan, VirusTotal, ZoomEye, Qichacha |
-| 🚀 One Command |  |
 | 🛡️ Compliance Guardrail | Fail-closed R1 compliance on every outbound call |
-| 🌐 Web Dashboard |  — one-click panel |
+| 🌐 Web Dashboard | One-click panel |
 | ⏰ Auto Scheduler | Daily collection with change tracking |
 
 **Goal: 1000 Stars ⭐**
@@ -86,7 +81,6 @@ motto: "Security is not a feature — it's a foundation."
 ---
 
 ## 💼 Work Experience
-
 
 ### AI Agent Security Product Manager
 **DBAPP Security** | 2023 - Present
@@ -275,30 +269,6 @@ A comprehensive governance framework for enterprise AI deployment, covering secu
   </a>
 </p>
 
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrueFurina&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
-
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/TrueFurina" alt="TrueFurina's GitHub Contribution Chart" width="90%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TrueFurina/TrueFurina/output/dist/github-contribution-grid-snake-dark.svg" width="80%" />
-</p>
-
 ---
 
 ## 📫 Connect
@@ -309,9 +279,6 @@ A comprehensive governance framework for enterprise AI deployment, covering secu
   </a>
   <a href="https://github.com/TrueFurina">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/TrueFurina/Resume">
-    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
 
