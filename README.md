@@ -240,6 +240,11 @@ A comprehensive governance framework for enterprise AI deployment, covering secu
   <img src="https://img.shields.io/github/contributors/TrueFurina/passive-recon?label=Contributors&style=for-the-badge&color=3fb950&logo=github" />
 </p>
 
+<!-- Contribution Activity Graph — vercel may be blocked in mainland China; onerror fallback hides it gracefully -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrueFurina&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph" onerror="this.style.display='none'" />
+</p>
+
 <!-- Contribution Snake — served via jsDelivr CDN from the `output` branch (reachable in China) -->
 <p align="center">
   <picture>
