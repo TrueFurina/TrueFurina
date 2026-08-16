@@ -226,6 +226,16 @@ A comprehensive governance framework for enterprise AI deployment, covering secu
   <img src="https://img.shields.io/badge/dynamic/json?label=Forks&query=%24..total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%3ATrueFurina&style=for-the-badge&color=8957e5&logo=github" />
 </p>
 
+<!-- GitHub stats cards — vercel/herokuapp may be blocked in mainland China; onerror fallback hides them gracefully -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrueFurina&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" onerror="this.style.display='none'" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrueFurina&theme=radical&hide_border=true" width="48%" alt="GitHub Streak Stats" onerror="this.style.display='none'" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueFurina&layout=compact&theme=radical&hide_border=true" width="40%" alt="Top Languages" onerror="this.style.display='none'" />
+</p>
+
 <!-- Top languages — shields.io dynamic (reachable in China) -->
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/TrueFurina/passive-recon?label=Top%20Language&style=for-the-badge&color=8957e5&logo=github" />
