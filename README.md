@@ -88,6 +88,18 @@ motto: "Security is not a feature — it's a foundation."
 
 ---
 
+## 🧭 Project Navigation
+
+More open-source projects — security, multi-agent systems, and knowledge engineering:
+
+| Project | Stars | What it is |
+|---------|:-----:|------------|
+| [🧪 AGI-Distiller](https://github.com/TrueFurina/AGI-Distiller) | <img src="https://img.shields.io/github/stars/TrueFurina/AGI-Distiller?style=flat&color=58a6ff&label=%20" /> | A living knowledge distillation system that self-evolves by reading technical content |
+| [🤖 MARS-408](https://github.com/TrueFurina/MARS-408) | <img src="https://img.shields.io/github/stars/TrueFurina/MARS-408?style=flat&color=58a6ff&label=%20" /> | 10-Agent LangGraph pipeline + FrugalRAG + GoMARL anti-hallucination for personalized learning |
+| [⚔️ xihu-sword-ctf-agent](https://github.com/TrueFurina/xihu-sword-ctf-agent) | <img src="https://img.shields.io/github/stars/TrueFurina/xihu-sword-ctf-agent?style=flat&color=58a6ff&label=%20" /> | CTF-solving AI agent (Python) |
+
+---
+
 ## 💼 Work Experience
 
 ### AI Agent Security Product Manager
