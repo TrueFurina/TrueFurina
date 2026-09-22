@@ -5,3 +5,4 @@ Self-merged PRs in this profile repo, one line each.
 - PR #2: pull-shark progress entry (2026-09-23)
 - PR #3: pull-shark progress entry (2026-09-23)
 - PR #4: pull-shark progress entry (2026-09-23)
+- PR #5: pull-shark progress entry (2026-09-23)
