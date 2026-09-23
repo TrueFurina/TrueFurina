@@ -378,3 +378,4 @@ Self-merged PRs in this profile repo, one line each.
 - PR #391: pull-shark progress entry (2026-09-23)
 - PR #392: pull-shark progress entry (2026-09-23)
 - PR #393: pull-shark progress entry (2026-09-23)
+- PR #394: pull-shark progress entry (2026-09-23)
