@@ -1,70 +1,117 @@
+# 🔬 TrueFurina GitHub - Optimized Profile README (v2)
+
 <div align="center">
-  <h1>馃憢 Hi, I'm Dream (TrueFurina)</h1>
-  <p><em>Agent Systems Engineer 路 AI Red-Team 路 Multi-Agent Reinforcement Learning</em></p>
+  <img src="https://img.shields.io/badge/Agent_Systems-Engineer-blueviolet?style=for-the-badge&logo=github" alt="Agent" />
+  <img src="https://img.shields.io/badge/LLM-MARL-important?style=for-the-badge" alt="MARL" />
+  <img src="https://img.shields.io/badge/LangGraph-Pipelines-cyan?style=for-the-badge&logo=python" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/AI_Red--Team-Security-red?style=for-the-badge" alt="RedTeam" />
+</div>
+
+<div align="center">
+  <h1>👋 Hi, I'm Dream (TrueFurina)</h1>
+  <p><em>Code first, buzzwords never.</em></p>
+  <br>
   <a href="https://github.com/TrueFurina?tab=followers">
-    <img src="https://img.shields.io/github/followers/TrueFurina?style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/TrueFurina?style=social&logo=github" alt="followers" />
   </a>
   <a href="https://github.com/TrueFurina?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-public-brightgreen" alt="repos" />
+    <img src="https://img.shields.io/badge/Repositories-public-2ea44f?style=social&logo=github" alt="repos" />
   </a>
 </div>
 
-## 馃幆 Who am I?
-
-> **Code first, buzzwords never.**
-
-I build **production-grade LLM agent systems** using LangGraph, experiment with **multi-agent reinforcement learning** (MARL) for cybersecurity, and run **adversarial red-team** tests against AI systems to harden them against jailbreak and prompt injection attacks.
-
-Currently @ **DBAPPSecurity** 馃洝锔?
 ---
 
-## 馃弳 Featured Projects
+## 🎯 Who Am I?
 
-| 猸?| Project | Description |
-|:-:|---------|-------------|
-| 猸? | [AGI-Distiller](https://github.com/TrueFurina/AGI-Distiller) | Self-evolving knowledge distillation system |
-| 猸? | [passive-recon](https://github.com/TrueFurina/passive-recon) | Pure OSINT / EASM / CTEM platform |
-| 猸? | [MARS-408](https://github.com/TrueFurina/MARS-408) | Multi-Agent personalized learning system |
-| 猸? | [xihu-sword-ctf-agent](https://github.com/TrueFurina/xihu-sword-ctf-agent) | AI agent for automated CTF solving |
-| 猸? | [marl-ecdsa](https://github.com/TrueFurina/marl-ecdsa) | ECDSA consensus via MARL (research) |
-| 猸? | [xuandun-cyber-range](https://github.com/TrueFurina/xuandun-cyber-range) | 鐜勭浘 路 AI 鏀婚槻闈跺満绯荤粺 for red-team training |
+I build **production-grade LLM agent systems** using LangGraph, run **multi-agent reinforcement learning** (MARL) experiments for cybersecurity defense, and operate **adversarial red-team** tests against AI systems to harden them against jailbreak and prompt injection attacks.
+
+Currently @ **DBAPPSecurity** 🛡️ — building AI-powered security testing infrastructure.
 
 ---
 
-## 馃敡 Tech Stack
+## 🏆 Featured Projects
 
-| Category | Tools & Frameworks |
-|----------|--------------------|
-| **Languages** | Python 路 TypeScript 路 Go |
-| **Agent Frameworks** | LangGraph 路 LangChain 路 AutoGen |
-| **LLMs** | DeepSeek 路 GPT-4 路 Claude 路 Qwen |
-| **MARL** | PettingZoo 路 Ray RLlib 路 JAXMARL |
-| **Security** | OWASP ZAP 路 Nuclei 路 Metasploit 路 Promptfoo |
-| **Infra** | Docker 路 Kubernetes 路 FastAPI 路 Streamlit |
-
----
-
-## 馃敟 What I'm working on
-
-- 馃 **SecAutoMind** 鈥?Automated security testing with LLM agents
-- 馃И **MARL consensus** 鈥?Multi-agent RL for distributed ECDSA signing
-- 馃洝锔?**AI red-team** 鈥?Adversarial evaluation framework for LLM systems
-- 馃摎 **Knowledge distillation** 鈥?Making small models think like big ones
+| ⭐ | Project | Domain | Description |
+|:-:|---------|--------|-------------|
+| ⭐9 | [AGI-Distiller](https://github.com/TrueFurina/AGI-Distiller) | 🧠 Knowledge | Self-evolving knowledge distillation — small models learn from big ones |
+| ⭐7 | [passive-recon](https://github.com/TrueFurina/passive-recon) | 🛰️ OSINT | Purely passive EASM / CTEM platform — 15+ data sources |
+| ⭐6 | [MARS-408](https://github.com/TrueFurina/MARS-408) | 🎓 MARL | Multi-Agent personalized learning for China's 408 Computer Science exam |
+| ⭐5 | [xihu-sword-ctf-agent](https://github.com/TrueFurina/xihu-sword-ctf-agent) | ⚔️ CTF | AI agent for automated CTF solving — recon → exploit → flag |
+| ⭐4 | [marl-ecdsa](https://github.com/TrueFurina/marl-ecdsa) | 🔐 Research | ECDSA consensus protocol via Multi-Agent RL |
+| ⭐4 | [xuandun-cyber-range](https://github.com/TrueFurina/xuandun-cyber-range) | 🎯 RedTeam | 玄盾 · AI 攻防靶场 — multi-agent offense/defense training |
 
 ---
 
-## 馃摣 Let's connect
+## 🔬 Research Interests
 
-- 馃寪 Blog: [appmiaoda.com](https://app-a7lm1eejtypt.appmiaoda.com)
-- 馃悪 GitHub: [@TrueFurina](https://github.com/TrueFurina)
-- 馃彚 [DBAPPSecurity](https://www.dbappsecurity.com/)
+```
+LLM Agents ─────────────────────────────────────────────────────┐
+  ├─ LangGraph pipelines (plan → act → observe → reflect)      │
+  ├─ RAG optimization (retrieval quality vs latency tradeoff)   │
+  └─ Knowledge distillation (small ≈ big?)                      │
+                                                                 │
+Multi-Agent RL ──────────────────────────────────────────────────┤
+  ├─ Cooperative consensus (ECDSA, PBFT via RL)                │
+  ├─ Adversarial games (cyber attack/defense as zero-sum)       │
+  └─ MARL × LLM hybrid (LLM as policy network)                  │
+                                                                 │
+AI Security ────────────────────────────────────────────────────┤
+  ├─ Red-team automation (jailbreak benchmarking)              │
+  ├─ Prompt injection defense (robustness vs capability)        │
+  └─ AI agent supply chain security                             │
+                                                                 │
+Open Source Contribution ────────────────────────────────────────┘
+  └─ TencentCloud/Octop ecosystem (agent memory, harness)
+```
 
 ---
 
-### 馃搳 GitHub Stats
+## 🔥 What I'm Building Now
+
+- 🤖 **SecAutoMind** — LLM-powered automated security testing pipeline
+- 🧪 **MARL for consensus** — training agents to collectively sign ECDSA without a leader
+- 🛡️ **AI red-team framework** — systematic adversarial evaluation for LLM systems
+- 🧠 **Agent memory layer** — cross-session persistence for LLM agent state
+
+---
+
+## 🔧 Tech Stack
+
+| Layer | Tools |
+|-------|-------|
+| **Agent Frameworks** | LangGraph · LangChain · AutoGen · Dify |
+| **LLMs** | DeepSeek-V3 · GPT-4o · Claude-Sonnet · Qwen |
+| **MARL** | PettingZoo · Ray RLlib · JAXMARL |
+| **Security** | OWASP ZAP · Nuclei · SpiderFoot · Promptfoo |
+| **Backend** | FastAPI · Docker · Redis · PostgreSQL |
+| **Frontend** | Streamlit · Vue3 · Next.js |
+| **Infra** | GitHub Actions · Kubernetes · Cloudflare |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-69%25-blue" alt="python" />
-  <img src="https://img.shields.io/badge/TypeScript-5%25-blue" alt="typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-5%25-yellow" alt="js" />
+
+```
+🐍 Python ████████████████████░░░░░░░░░░░░  69%
+📜 TypeScript ████░░░░░░░░░░░░░░░░░░░░░░░   5%
+🍦 JavaScript ████░░░░░░░░░░░░░░░░░░░░░░░   5%
+📄 HTML       ████░░░░░░░░░░░░░░░░░░░░░░░   5%
+⚙️ 其他       ██░░░░░░░░░░░░░░░░░░░░░░░░░   6%
+```
+
 </div>
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 **Blog**: [appmiaoda.com](https://app-a7lm1eejtypt.appmiaoda.com)
+- 🏢 **Company**: [DBAPPSecurity](https://www.dbappsecurity.com/)
+- 🐙 **GitHub**: [@TrueFurina](https://github.com/TrueFurina)
+- 🧪 **Orgs**: [MARL-ECDSA-Consensus](https://github.com/MARL-ECDSA-Consensus)
+
+---
+
+### 🧱 This README is auto-generated & optimized by AI Agent ✨
