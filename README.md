@@ -32,26 +32,30 @@ I build **production-grade LLM agent systems** with LangGraph, run **multi-agent
 
 ## Open Source: TencentCloud / Octop Ecosystem
 
-> In ~20 days I've submitted **170+ PRs** across the Octop agent platform. **55 merged**, **87 still open**.
-
-| Upstream | PRs | Merged | Open |
-|----------|:---:|:------:|:----:|
-| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 100+ | **18** | 59+ |
-| [TencentCloud/octop-harness](https://github.com/TencentCloud/octop-harness) | 50 | **28** | 17 |
-| [TencentCloud/octop-memory](https://github.com/TencentCloud/octop-memory) | 20 | **9** | 11 |
-| **Total** | **170+** | **55** | **87+** |
-
-**Recent merged work** (2026-10):
-- 🧠 **feat**: add MCP managed sessions (harness PR #65)
-- 🧠 **feat**: bound SQLite/PostgreSQL memory connections (memory PR #19)
-- 🛠 **fix**: guard inbox worker contextvars leak — 185k AIMessageChunk memory leak (harness PR #116)
-- 🛠 **fix**: fallback grep to single-file scope (Octop PR #2374)
-- 🛠 **fix**: UTF-8 byte bound on download filenames (Octop PR #2376)
+Active contributor to the Octop agent platform (CLI · harness · memory).
+I'd rather point at merged work than quote counts — the table below lists changes that were
+reviewed and merged by maintainers, with links you can click and check.
 
 **Profile forks** (synced or ahead of upstream):
 - [TrueFurina/Octop](https://github.com/TrueFurina/Octop) → upstream main (synced)
 - [TrueFurina/octop-memory](https://github.com/TrueFurina/octop-memory) → upstream main
 - [TrueFurina/octop-harness](https://github.com/TrueFurina/octop-harness) → **2 commits ahead** of upstream
+
+---
+
+## 🛠 Selected upstream contributions
+
+只列**已被上游合并**的改动，每条都能点开核对（维护者原话在 PR 里）。
+
+| 上游 / PR | 改了什么 | 规模 | 结果 |
+|---|---|:--:|---|
+| [unicode-rs/unicode-segmentation #183](https://github.com/unicode-rs/unicode-segmentation/pull/183) | `GraphemeCursor` 公共 API 的越界 panic：`offset`/`chunk_start` 切片、`prev_chunk` 反向迭代下溢、pre-context 分块校验 | +27/−5 | 维护者 **Manishearth** 要求 `cargo fmt` 后 APPROVED 并致谢 |
+| [CodeGraphContext #1676](https://github.com/CodeGraphContext/CodeGraphContext/pull/1676) | 给 Cassandra / MySQL ingestor 加 SSL 连接参数（`CERT_REQUIRED` + 主机名校验，默认关闭、不影响旧配置） | +1214/−315，25 文件 | 维护者本地 trial-merge 验证后合并 |
+| [TencentCloud/Octop #2171](https://github.com/TencentCloud/Octop/issues/2171) → [#2174](https://github.com/TencentCloud/Octop/pull/2174) | 报 issue：`OCTOP_HOME` 不迁移向导密码文件；逐行指出 4 处该同步修改的集成测试，维护者据此修复 | +173/−40 | 维护者 *"Looks merge-ready for #2171"*，changelog 署名 `(#2171)` |
+| [seanmonstar/reqwest #3100](https://github.com/seanmonstar/reqwest/pull/3100) | `base64` 改 `default-features = false`，去掉 `simd-unsafe`，crate 恢复 `#![forbid(unsafe_code)]` | +1/−1 | 作者 **seanmonstar** 本人 APPROVED |
+| [Unstructured-IO/unstructured #4463](https://github.com/Unstructured-IO/unstructured/pull/4463) | `Text` 元素在 `None` 文本时归一化为空串，修 `TypeError`（含测试） | +33/−4，4 文件 | 维护者 APPROVED |
+
+> 我更擅长**定位**而不是堆代码：Octop 那条我没有直接改代码，而是把维护者需要同步修改的 4 处测试行号列清楚，他按清单改完就合了。
 
 ---
 
@@ -63,8 +67,8 @@ I build **production-grade LLM agent systems** with LangGraph, run **multi-agent
 | 6 | [passive-recon](https://github.com/TrueFurina/passive-recon) | 🛰️ OSINT / EASM |
 | 5 | [MARS-408](https://github.com/TrueFurina/MARS-408) | 🎓 MARL |
 | 4 | [xihu-sword-ctf-agent](https://github.com/TrueFurina/xihu-sword-ctf-agent) | ⚔️ CTF AI agent |
-| 4 | [marl-ecdsa](https://github.com/TrueFurina/marl-ecdsa) | 🔐 ECDSA consensus via RL |
-| 4 | [xuandun-cyber-range](https://github.com/TrueFurina/xuandun-cyber-range) | 🎯 AI RedTeam range |
+| 0 | [marl-ecdsa](https://github.com/TrueFurina/marl-ecdsa) | 🔐 ECDSA consensus via RL |
+| 3 | [xuandun-cyber-range](https://github.com/TrueFurina/xuandun-cyber-range) | 🎯 AI RedTeam range |
 
 ---
 
