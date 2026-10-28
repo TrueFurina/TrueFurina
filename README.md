@@ -12,8 +12,6 @@
 
 ### Open Source Contributions
 
-<img src="https://img.shields.io/badge/PRs_Total-170+-blue?style=social&logo=github" alt="PRs" />
-<img src="https://img.shields.io/badge/Merged-55-gold?style=social&logo=merge" alt="Merged" />
 <img src="https://img.shields.io/badge/Repos-TencentCloud%20Octop%20Ecosystem-indigo?style=social" alt="Ecosystem" />
 
 </div>
